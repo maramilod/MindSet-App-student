@@ -1,1 +1,1 @@
-print("hi") 
+preint(";mf;w;wh[li") 
