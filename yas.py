@@ -1,1 +1,1 @@
-prin("kkk")
+print("kkk")
