@@ -1,5 +1,5 @@
-# قراءة الإدخال من المستخدم
-user_input = input("ادخل نص: ")
+# read input from user
+user_input = input()
 
-# طباعة نفس الإدخال
+# print the same input
 print(user_input)
