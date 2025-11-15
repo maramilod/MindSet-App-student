@@ -1,2 +1,5 @@
-user_input = input()  # correct function name
+# read input from user
+user_input = input()
+
+# print the same input
 print(user_input)
