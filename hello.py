@@ -1,2 +1,2 @@
-name = input(" ")
-print("Hello", name)
+x = input()
+print(x)
